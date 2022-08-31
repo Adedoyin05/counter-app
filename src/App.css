@@ -1,0 +1,56 @@
+.decrease-button{
+  border-style: none;
+  background-color: #00539CFF;
+  font-size: 30px;
+  border-radius: 20px;
+  width:150px;
+  height: 50px;
+}
+#decrease-button{
+  align-content: center;
+  padding-top: 200px;
+  padding-left: 500px;
+}
+
+.reset{
+  border-style: none;
+  background-color:#c0904d ;
+  font-size: 30px;
+  border-radius: 20px;
+  width: 150px;
+  height: 50px;
+}
+
+
+.increase-button{
+  border-style: none;
+  background-color:#455073 ;
+  font-size: 30px;
+  border-radius: 20px;
+  width: 150px;
+  height: 50px;
+}
+* #reset{
+  align-content: center;
+  padding-top: 200px;
+  padding-left: 90px;
+  size: 200px;
+} 
+#increase-button{
+  align-content: center;
+  padding-top: 200px;
+  padding-left:100px ;
+  
+}
+
+#button{
+  display: flex;
+}
+#count{
+  text-align: center;
+  font-size: 90px;
+}
+
+button{
+  cursor: pointer;
+}
